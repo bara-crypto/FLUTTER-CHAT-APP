@@ -26,6 +26,12 @@ A lightweight, cross-platform mobile chat application built with Flutter and pow
 * **Storage:** Firebase Storage (For profile pictures and shared media files)
 
 ---
+## Samples
+<img src="/Screenshot 2026-05-16 211438.png" alt="Instagram Clone Preview" width="350" />
+<img src="/Screenshot 2026-05-16 211456.png" alt="Instagram Clone Preview" width="350" />
+<img src="/Screenshot 2026-05-16 211510.png" alt="Instagram Clone Preview" width="350" />
+<img src="/Screenshot 2026-05-16 211522.png" alt="Instagram Clone Preview" width="350" />
+
 
 ## 📁 File Structure
 
