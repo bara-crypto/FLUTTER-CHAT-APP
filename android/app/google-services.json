@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774672645921",
+    "project_id": "instagram-696b3",
+    "storage_bucket": "instagram-696b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774672645921:android:700ea3ae60d2e06fcd4860",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxx9xJ4EP0Ur992WTRRCVLeJJcrq0Qgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
